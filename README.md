@@ -1,8 +1,4 @@
 
-# mdx-deck basic template
-
-This was generated with [mdx-deck][]'s `npm init deck` command.
-
 ## Development
 
 To run the presentation deck in development mode:
@@ -33,6 +29,9 @@ To export an image of the title slide:
 npm run image
 ```
 
+--- 
 For more documentation see the [mdx-deck][] repo.
 
 [mdx-deck]: https://github.com/jxnblk/mdx-deck
+
+<small>This was generated with [mdx-deck][]'s `npm init deck` command.</small>
