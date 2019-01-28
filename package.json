@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "description": "Deck created with mdx-deck",
+  "scripts": {
+    "pdf": "mdx-deck pdf deck.mdx",
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx",
+    
+    "image": "mdx-deck screenshot deck.mdx",
+    "help": "mdx-deck"
+  },
+  "keywords": [],
+  "author": "Diane Delallée",
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^1.6.7"
+  },
+  "name": "coding-club-des-filles"
+}
